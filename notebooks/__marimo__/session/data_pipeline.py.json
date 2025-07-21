@@ -1,0 +1,137 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.14.12"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "e8bbfae48214d9ce3ce42756c9b0be54",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "f95e5ef0211981312d0f1948c797267a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "df3367722960e61806711b52c42a4063",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "e36b4aabe08b18a98f7103d058ae79fd",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "8d777f385d3dfec8815d20f7496026dc",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='lEQa-0' random-id='5d0ffaeb-1355-aaff-9057-90cd501713d7'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;date&#92;&quot;:&#92;&quot;2020-01-02T00:00:00.000&#92;&quot;,&#92;&quot;year&#92;&quot;:2020,&#92;&quot;month&#92;&quot;:1,&#92;&quot;type&#92;&quot;:&#92;&quot;credit&#92;&quot;,&#92;&quot;category&#92;&quot;:&#92;&quot;salary&#92;&quot;,&#92;&quot;amount&#92;&quot;:2837.48,&#92;&quot;description&#92;&quot;:&#92;&quot;Salary payment at Oconnor, Hughes and Solis&#92;&quot;},{&#92;&quot;date&#92;&quot;:&#92;&quot;2020-01-02T00:00:00.000&#92;&quot;,&#92;&quot;year&#92;&quot;:2020,&#92;&quot;month&#92;&quot;:1,&#92;&quot;type&#92;&quot;:&#92;&quot;credit&#92;&quot;,&#92;&quot;category&#92;&quot;:&#92;&quot;savings&#92;&quot;,&#92;&quot;amount&#92;&quot;:256.74,&#92;&quot;description&#92;&quot;:&#92;&quot;Savings payment at Acosta, Davenport and Hartman&#92;&quot;},{&#92;&quot;date&#92;&quot;:&#92;&quot;2020-01-02T00:00:00.000&#92;&quot;,&#92;&quot;year&#92;&quot;:2020,&#92;&quot;month&#92;&quot;:1,&#92;&quot;type&#92;&quot;:&#92;&quot;debit&#92;&quot;,&#92;&quot;category&#92;&quot;:&#92;&quot;credit_card&#92;&quot;,&#92;&quot;amount&#92;&quot;:-340.7,&#92;&quot;description&#92;&quot;:&#92;&quot;Credit_Card payment at Jones PLC&#92;&quot;},{&#92;&quot;date&#92;&quot;:&#92;&quot;2020-01-03T00:00:00.000&#92;&quot;,&#92;&quot;year&#92;&quot;:2020,&#92;&quot;month&#92;&quot;:1,&#92;&quot;type&#92;&quot;:&#92;&quot;debit&#92;&quot;,&#92;&quot;category&#92;&quot;:&#92;&quot;car_payment&#92;&quot;,&#92;&quot;amount&#92;&quot;:-286.97,&#92;&quot;description&#92;&quot;:&#92;&quot;Car_Payment payment at Vargas Ltd&#92;&quot;},{&#92;&quot;date&#92;&quot;:&#92;&quot;2020-01-03T00:00:00.000&#92;&quot;,&#92;&quot;year&#92;&quot;:2020,&#92;&quot;month&#92;&quot;:1,&#92;&quot;type&#92;&quot;:&#92;&quot;credit&#92;&quot;,&#92;&quot;category&#92;&quot;:&#92;&quot;salary&#92;&quot;,&#92;&quot;amount&#92;&quot;:3144.44,&#92;&quot;description&#92;&quot;:&#92;&quot;Salary payment at Frazier, Dudley and Preston&#92;&quot;},{&#92;&quot;date&#92;&quot;:&#92;&quot;2020-01-04T00:00:00.000&#92;&quot;,&#92;&quot;year&#92;&quot;:2020,&#92;&quot;month&#92;&quot;:1,&#92;&quot;type&#92;&quot;:&#92;&quot;debit&#92;&quot;,&#92;&quot;category&#92;&quot;:&#92;&quot;utilities&#92;&quot;,&#92;&quot;amount&#92;&quot;:-61.82,&#92;&quot;description&#92;&quot;:&#92;&quot;Utilities payment at Jones-Tate&#92;&quot;},{&#92;&quot;date&#92;&quot;:&#92;&quot;2020-01-04T00:00:00.000&#92;&quot;,&#92;&quot;year&#92;&quot;:2020,&#92;&quot;month&#92;&quot;:1,&#92;&quot;type&#92;&quot;:&#92;&quot;debit&#92;&quot;,&#92;&quot;category&#92;&quot;:&#92;&quot;transport&#92;&quot;,&#92;&quot;amount&#92;&quot;:-71.94,&#92;&quot;description&#92;&quot;:&#92;&quot;Transport payment at Gordon, Gonzales and Page&#92;&quot;},{&#92;&quot;date&#92;&quot;:&#92;&quot;2020-01-05T00:00:00.000&#92;&quot;,&#92;&quot;year&#92;&quot;:2020,&#92;&quot;month&#92;&quot;:1,&#92;&quot;type&#92;&quot;:&#92;&quot;debit&#92;&quot;,&#92;&quot;category&#92;&quot;:&#92;&quot;car_payment&#92;&quot;,&#92;&quot;amount&#92;&quot;:-261.75,&#92;&quot;description&#92;&quot;:&#92;&quot;Car_Payment payment at Jones, Rivera and Malone&#92;&quot;},{&#92;&quot;date&#92;&quot;:&#92;&quot;2020-01-05T00:00:00.000&#92;&quot;,&#92;&quot;year&#92;&quot;:2020,&#92;&quot;month&#92;&quot;:1,&#92;&quot;type&#92;&quot;:&#92;&quot;debit&#92;&quot;,&#92;&quot;category&#92;&quot;:&#92;&quot;transport&#92;&quot;,&#92;&quot;amount&#92;&quot;:-21.2,&#92;&quot;description&#92;&quot;:&#92;&quot;Transport payment at Peck-Zuniga&#92;&quot;},{&#92;&quot;date&#92;&quot;:&#92;&quot;2020-01-06T00:00:00.000&#92;&quot;,&#92;&quot;year&#92;&quot;:2020,&#92;&quot;month&#92;&quot;:1,&#92;&quot;type&#92;&quot;:&#92;&quot;credit&#92;&quot;,&#92;&quot;category&#92;&quot;:&#92;&quot;savings&#92;&quot;,&#92;&quot;amount&#92;&quot;:240.18,&#92;&quot;description&#92;&quot;:&#92;&quot;Savings payment at Rodriguez-Tran&#92;&quot;},{&#92;&quot;date&#92;&quot;:&#92;&quot;2020-01-08T00:00:00.000&#92;&quot;,&#92;&quot;year&#92;&quot;:2020,&#92;&quot;month&#92;&quot;:1,&#92;&quot;type&#92;&quot;:&#92;&quot;debit&#92;&quot;,&#92;&quot;category&#92;&quot;:&#92;&quot;entertainment&#92;&quot;,&#92;&quot;amount&#92;&quot;:-78.21,&#92;&quot;description&#92;&quot;:&#92;&quot;Entertainment payment at Martinez-Nelson&#92;&quot;},{&#92;&quot;date&#92;&quot;:&#92;&quot;2020-01-08T00:00:00.000&#92;&quot;,&#92;&quot;year&#92;&quot;:2020,&#92;&quot;month&#92;&quot;:1,&#92;&quot;type&#92;&quot;:&#92;&quot;debit&#92;&quot;,&#92;&quot;category&#92;&quot;:&#92;&quot;investment&#92;&quot;,&#92;&quot;amount&#92;&quot;:-493.35,&#92;&quot;description&#92;&quot;:&#92;&quot;Investment payment at Hernandez, Nguyen and Webster&#92;&quot;},{&#92;&quot;date&#92;&quot;:&#92;&quot;2020-01-08T00:00:00.000&#92;&quot;,&#92;&quot;year&#92;&quot;:2020,&#92;&quot;month&#92;&quot;:1,&#92;&quot;type&#92;&quot;:&#92;&quot;debit&#92;&quot;,&#92;&quot;category&#92;&quot;:&#92;&quot;mortgage&#92;&quot;,&#92;&quot;amount&#92;&quot;:-1103.81,&#92;&quot;description&#92;&quot;:&#92;&quot;Mortgage payment at Walker-Brown&#92;&quot;},{&#92;&quot;date&#92;&quot;:&#92;&quot;2020-01-09T00:00:00.000&#92;&quot;,&#92;&quot;year&#92;&quot;:2020,&#92;&quot;month&#92;&quot;:1,&#92;&quot;type&#92;&quot;:&#92;&quot;debit&#92;&quot;,&#92;&quot;category&#92;&quot;:&#92;&quot;car_payment&#92;&quot;,&#92;&quot;amount&#92;&quot;:-183.48,&#92;&quot;description&#92;&quot;:&#92;&quot;Car_Payment payment at Paul, Burns and Berry&#92;&quot;},{&#92;&quot;date&#92;&quot;:&#92;&quot;2020-01-09T00:00:00.000&#92;&quot;,&#92;&quot;year&#92;&quot;:2020,&#92;&quot;month&#92;&quot;:1,&#92;&quot;type&#92;&quot;:&#92;&quot;debit&#92;&quot;,&#92;&quot;category&#92;&quot;:&#92;&quot;mortgage&#92;&quot;,&#92;&quot;amount&#92;&quot;:-986.13,&#92;&quot;description&#92;&quot;:&#92;&quot;Mortgage payment at Jones and Sons&#92;&quot;}]&quot;' data-total-rows='3600' data-total-columns='7' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='15' data-field-types='[[&quot;date&quot;, [&quot;datetime&quot;, &quot;datetime64[ns]&quot;]], [&quot;year&quot;, [&quot;integer&quot;, &quot;int64&quot;]], [&quot;month&quot;, [&quot;integer&quot;, &quot;int64&quot;]], [&quot;type&quot;, [&quot;string&quot;, &quot;object&quot;]], [&quot;category&quot;, [&quot;string&quot;, &quot;object&quot;]], [&quot;amount&quot;, [&quot;number&quot;, &quot;float64&quot;]], [&quot;description&quot;, [&quot;string&quot;, &quot;object&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "7325dd239aa45bbc0c9f43ee5ebbe245",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='PKri-0' random-id='6b55d2ae-14d7-1fda-5b6f-879133a73545'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;year&#92;&quot;:2020,&#92;&quot;month&#92;&quot;:3900,&#92;&quot;amount&#92;&quot;:13208.61},{&#92;&quot;year&#92;&quot;:2021,&#92;&quot;month&#92;&quot;:3900,&#92;&quot;amount&#92;&quot;:12298.06},{&#92;&quot;year&#92;&quot;:2022,&#92;&quot;month&#92;&quot;:3900,&#92;&quot;amount&#92;&quot;:9359.0},{&#92;&quot;year&#92;&quot;:2023,&#92;&quot;month&#92;&quot;:3900,&#92;&quot;amount&#92;&quot;:25845.25},{&#92;&quot;year&#92;&quot;:2024,&#92;&quot;month&#92;&quot;:3900,&#92;&quot;amount&#92;&quot;:9308.5},{&#92;&quot;year&#92;&quot;:2025,&#92;&quot;month&#92;&quot;:3900,&#92;&quot;amount&#92;&quot;:98838.0}]&quot;' data-total-rows='6' data-total-columns='2' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='15' data-field-types='[[&quot;month&quot;, [&quot;integer&quot;, &quot;int64&quot;]], [&quot;amount&quot;, [&quot;number&quot;, &quot;float64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[&quot;year&quot;]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "319b8b33d97c784b80a5d095324af787",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "3791a56b59d4be0814e56c22b8f0bdce",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "b1153f03678703d9c2dd0defbe0536c6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "application/vnd.marimo+mimebundle": {}
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "emfo",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build artifacts
+build/
+dist/
+wheels/
+*.egg-info/
+*.eggs/
+.eggs/
+
+# Python-generated files
+*.py[oc]
+
+# Virtual environments
+.venv/
+.env/
+.Python
+python-env/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Marimo notebooks (if used)
+__marimo__/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Django / Flask / general logs & databases
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+instance/
+.webassets-cache
+
+# IPython / Jupyter
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# Sphinx documentation
+docs/_build/
+
+# PEP 582
+__pypackages__/
+
+# Typing and linting
+.mypy_cache/
+.dmypy.json
+.pytype/
+.pyre/
+
+# IDEs and tooling
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# C extensions
+*.so
+
+# PyInstaller
+*.spec
+
+# Poetry & pipenv
+poetry.lock
+Pipfile.lock
