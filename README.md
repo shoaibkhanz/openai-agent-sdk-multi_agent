@@ -22,16 +22,17 @@ package manager designed for speed and reliability.
 
 ### Step 1: Install `uv`
 
-If `uv` is not already installed, you can install it by running:
+If `uv` is not already installed, you can install it by running (mac and linux):
+explore `uv` docs [here](https://docs.astral.sh/uv/getting-started/installation/)
 
 ```bash
-curl -Ls https://astral.sh/uv/install.sh | sh
+curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
 Alternatively, if you use Homebrew:
 
 ```bash
-brew install astral-sh/uv/uv
+brew install uv
 ```
 
 ### Step 2: Sync the environment
